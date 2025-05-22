@@ -72,6 +72,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Netflix-GPT
 -create React App
 -Configured TailwindCss 
+-Header
+-routing of app
+-login form
+-sign up form
+-form validation(regex for password and email validatation)
 # features
 -Login/SignUp
    -Sign up form

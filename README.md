@@ -77,6 +77,34 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -login form
 -sign up form
 -form validation(regex for password and email validatation)
+-authentication(use of firebase{asBackend})
+-firebase setup
+-Deploying our app to production
+-create SignUp User Account
+-Implement Sign In User Api
+-Created a redux store with user slice
+-Implemented Sign out
+-Update Profile(X)
+-BugFix:Sign UP user displayName and profile picture update(X)
+BugFIx:if the user is not logged in  Redirect/browse to Login Page and vice versa
+-Unsubscribed to the onAuthStateChanged callback
+-hardcoded values to the constants file
+-For Movie DataBase - TMdb-login-(genterate APi key)
+-API-API reference-now playing-javascript-fetch
+-{strictMode in React -everything will call twice}
+why?react check extra rerendering if their is any inconsistency
+-custom Hook for Now playing Movies
+-create movieSlice
+Update store with movie data
+Planning for MainContainer & Secondary Container
+-Fetch Data for trailer video
+-Update store with trailer video
+-Embedded the u tube  and make it autoply=1
+-Tailwind Classes to make Main Container look awsome
+
+
+
+...............
 # features
 -Login/SignUp
    -Sign up form

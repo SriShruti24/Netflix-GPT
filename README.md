@@ -101,6 +101,13 @@ Planning for MainContainer & Secondary Container
 -Update store with trailer video
 -Embedded the u tube  and make it autoply=1
 -Tailwind Classes to make Main Container look awsome
+-Build Secondary List
+-Build Movie List
+-Build Movie Card
+-TMDB Image CDN URL
+-Made the Browse page amazing with Tailwind Css
+-usePopularMovie Custom Hook
+
 
 
 

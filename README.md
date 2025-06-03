@@ -107,6 +107,10 @@ Planning for MainContainer & Secondary Container
 -TMDB Image CDN URL
 -Made the Browse page amazing with Tailwind Css
 -usePopularMovie Custom Hook
+-GPT Search Page
+-GPT Search Bar
+-Multi-language Feature in ou App(*BONUS)
+-Integrate GPT API
 
 
 

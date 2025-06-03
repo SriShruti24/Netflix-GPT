@@ -84,7 +84,7 @@ setIsSignInForm(!isSignInForm);
     <div>
       <Header />
       <div className="absolute">
-        <img src={bg}/>
+        <img src={bg} alt="logo"/>
       </div>
       <form 
       onSubmit={(e)=>e.preventDefault()}
